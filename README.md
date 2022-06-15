@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ala-hasni-433409229/](https://www.linkedin.com/in/ala-hasni-433409229/)
 
-- 💬 Ask me about **react , laravel/ JAVA**
+- 💬 Ask me about **React js  ,PHP( laravel,symfony) / JAVA(Spring boot)**
 
 - 📫 How to reach me **hasnialaa28@gmail.com**
 
