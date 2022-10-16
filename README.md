@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Searching st estates**
+- 🔭 I’m currently working as an IT SUPPORT ASSISTANT / SOFTWARE DEVELOPER
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ala-hasni-433409229/](https://www.linkedin.com/in/ala-hasni-433409229/)
 
-- 💬 Ask me about **React js  ,PHP( laravel,symfony) / JAVA(Spring boot)**
+- 💬 Ask me about **React js / NATIVE  ,PHP( laravel,symfony) / JAVA(Spring boot)**
 
 - 📫 How to reach me **hasnialaa28@gmail.com**
 
